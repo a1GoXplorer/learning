@@ -1,3 +1,23 @@
 h1 {
+  color: crimson;
+}
+
+#oooh {
   color: green;
+}
+
+.sarahssquare {
+  width: 1200px;
+  height: 150px;
+  border: solid;
+  color: beige;
+  background-color: royalblue;
+}
+
+.markssquare {
+  width: 1200px;
+  height: 150px;
+  border: solid;
+  color: beige;
+  background-color: violet;
 }
